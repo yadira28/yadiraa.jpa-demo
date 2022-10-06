@@ -1,1 +1,0 @@
-# yadiraa.jpa-demo
